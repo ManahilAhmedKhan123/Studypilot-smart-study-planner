@@ -22,7 +22,7 @@ StudyPilot is a modern student productivity application designed to help student
 
 ## Screenshot
 
-![Dashboard](dashboard.png)
+![Dashboard](dashboard.png.png)
 
 ## Purpose
 
